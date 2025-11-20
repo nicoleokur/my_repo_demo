@@ -150,3 +150,5 @@ first_name = full_name[:6]
 print(first_name)
 last_name = full_name[-4:]
 print(last_name)
+
+print("hello world")
